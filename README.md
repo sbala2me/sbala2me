@@ -16,8 +16,7 @@ I am passionate about leveraging advanced technologies to optimize processes, en
 ---
 
 ### Certifications  
-- **Azure Data Engineer Associate (Microsoft Certified)**  
-- **SnowPro Core (Snowflake Certified)**  
+- **Azure Data Engineer Associate (Microsoft Certified)**   
 - **AWS Cloud Practitioner & Machine Learning Specialty**  
 - **PMP (Project Management Professional)**  
 - **SAFe 5 Scrum Master / Certified ScrumMaster (CSM)**  
