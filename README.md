@@ -95,4 +95,4 @@ I am passionate about leveraging advanced technologies to optimize processes, en
 - **GitHub**: [https://github.com/sbala2me]  
 - **LinkedIn**: [https://www.linkedin.com/in/sbala2me/]  
 
-This enhanced summary removes the latest experience from the "About Me" section, presenting it as a project, and adds focus on leadership, innovation, and technical expertise, making it highly attractive for **Data Engineering Manager** roles. Let me know if you'd like further customization!
+
