@@ -1,6 +1,3 @@
-### Enhanced Portfolio Summary for Data Engineering Manager Role
-
----
 
 ### About Me  
 I am **Balasubramanian Swaminathan**, a **Data Engineering Specialist** and **Project Management Professional** with over **10 years of experience** in Actuarial and Risk Management. With a proven track record in **data engineering**, **cloud technologies**, and **team leadership**, I excel in designing scalable, efficient, and innovative data pipelines and systems. My expertise spans **Azure Data Engineering**, **Databricks**, **Informatica Suite**, and **machine learning**, enabling me to deliver robust data solutions for complex business challenges.  
